@@ -1,7 +1,7 @@
 /**
  * @param {number} a  Base number
  * @param {number} b  Number that should be added to the base number
- * @returns {number}
+ * @returns {number}  a + b
  */
 function asyncAddNumbers(a, b) {
 	return new Promise((resolve, reject) => {

@@ -17,3 +17,7 @@ addNumbers("a", -1)
   .then(answer => console.log(answer))
   .catch(error => console.error(error)); // Either 'a' or 'b' is not a number
 ```
+
+
+| Be sure to check out our even more useful REST API at [nmbr.dev](https://nmbr.dev/) |
+| --- |
