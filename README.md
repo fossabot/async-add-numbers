@@ -1,4 +1,6 @@
 ## async-add-numbers
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkldzj%2Fasync-add-numbers.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkldzj%2Fasync-add-numbers?ref=badge_shield)
+
 
 ### Usage
 
@@ -21,3 +23,6 @@ addNumbers("a", -1)
 
 | Be sure to check out our even more useful REST API at [nmbr.dev](https://nmbr.dev/) |
 | --- |
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkldzj%2Fasync-add-numbers.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkldzj%2Fasync-add-numbers?ref=badge_large)
